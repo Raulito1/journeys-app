@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# journeys-app
-=======
 # Journeys Analytics Dashboard
 
 A comprehensive analytics dashboard for visualizing user journeys, tracking KPIs, and analyzing customer behavior patterns.
@@ -181,5 +178,3 @@ Add to the `mockKPIs` array in `src/data/mockData.ts`:
 ## 📝 License
 
 MIT
-
->>>>>>> b045349 (Initial commit of Journeys App)
